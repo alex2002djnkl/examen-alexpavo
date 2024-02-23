@@ -65,6 +65,37 @@ def llegirUnCaracter(demanarCaracter,missatgeError):
        print (missatgeError)
 # =============================================================================
     
+    
+# =============================================================================
+# Nom:      ??????
+# Descripció: ??????
+# ===== Dades d'entrada =====
+# @param:   ?????? de tipus ??????
+#       ??????
+# ===== Dades a tornar  =====
+# @return:  ?????? de tipus ??????
+#       ??????
+
+# definim la funció, amb parametre demanar nom y missatge error 
+def llegirDecimal(demanarNombre, missatgeError):
+
+    # missatge es igual a float 
+    missatgeError = float 
+    # fem un bucle per a que nombre decimal que es float retorni el numero decimal, hi ha un except per a posibles errors
+    while True:
+        try:
+            nombredecimal = float(input(demanarNombre))
+            return nombredecimal
+        except ValueError:
+            print(missatgeError)
+
+# Exemple per utiliztar
+
+
+demanar = "Introdueix un nombre decimal: "
+error = "Error. Si us plau, introdueix un nombre decimal vàlid."
+decimal = llegirDecimal(demanar, error)
+print(f"Has introduït el nombre decimal: {decimal}")
 <hr>
 
 ## Funció **`llegirUnCaracter`**
