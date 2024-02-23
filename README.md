@@ -34,6 +34,37 @@ No cal que desenvolupeu res, es tracta **només** de valorar quins enunciats far
 
 ## Intentaré fer-ho tot.
 
+# =============================================================================
+# Nom:      ??????
+# Descripció: ??????
+# ===== Dades d'entrada =====
+# @param:   ?????? de tipus ??????
+#       ??????
+# ===== Dades a tornar  =====
+# @return:  ?????? de tipus ??????
+#       ??????
+
+
+# Aquesta linea defineix la funcio amb els parametres demanarCaracter y missatgeError    
+def llegirUnCaracter(demanarCaracter,missatgeError):
+
+     # demanarCaracter es igual a str    
+    demanarCaracter = str
+     # missatge de error es igual a Error   
+    missatgeError = "Error"
+     # demana que entris un caracter
+    print("Entra un caracter siusplau:")
+     # si demanarCaracter es igual a str print Molt Bona Paraula!
+    if demanarCaracter == str:
+
+        print ("Molt bona paraula!")
+    # si no, Error
+    
+    else:
+       
+       print (missatgeError)
+# =============================================================================
+    
 <hr>
 
 ## Funció **`llegirUnCaracter`**
