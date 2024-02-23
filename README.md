@@ -30,9 +30,9 @@ No cal que desenvolupeu res, es tracta **només** de valorar quins enunciats far
 
 [Funcions facilitades pel professor](#funcions-facilitades-pel-professor)
 
-## EJERCICIS EXAMEN
+# EJERCICIS EXAMEN
 
-# Intentaré fer-ho tot.
+## Intentaré fer-ho tot.
 
 <hr>
 
