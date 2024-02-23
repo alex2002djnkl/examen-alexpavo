@@ -30,6 +30,10 @@ No cal que desenvolupeu res, es tracta **només** de valorar quins enunciats far
 
 [Funcions facilitades pel professor](#funcions-facilitades-pel-professor)
 
+## EJERCICIS EXAMEN
+
+# Intentaré fer-ho tot.
+
 <hr>
 
 ## Funció **`llegirUnCaracter`**
